@@ -13,6 +13,10 @@
   "author": "Alejandro Lopez <alejandro.lopez@tiui.mx>",
   "license": "MIT",
   "dependencies": {
+    "g": "^2.0.1",
     "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.2"
   }
 }
